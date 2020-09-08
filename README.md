@@ -30,3 +30,21 @@ Users can browse and filter the ads on the site and they can log in or register 
 etc. 
 
 #### Screenhsots: 
+
+* *Homepage*
+<img src="screenshots/homepage.PNG" width="500" alt="homepage picture" >
+
+* *Login form*
+<img src="screenshots/login.PNG" width="500" alt="homepage picture" >
+
+* *Registration form*
+<img src="screenshots/register.PNG" width="500" alt="homepage picture" >
+
+* *Administrator dashboard*
+<img src="screenshots/dashboard.PNG" width="500" alt="homepage picture" >
+
+* *Opening an advert as a buyer*
+<img src="screenshots/buyer.PNG" width="500" alt="homepage picture" >
+
+* *Filtering the products on the home page*
+<img src="screenshots/filter.PNG" width="500" alt="homepage picture" >

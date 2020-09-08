@@ -35,16 +35,16 @@ etc.
 <img src="screenshots/homepage.PNG" width="500" alt="homepage picture" >
 
 * *Login form*
-<img src="screenshots/login.PNG" width="500" alt="homepage picture" >
+<img src="screenshots/login.png" width="500" alt="Login form" >
 
 * *Registration form*
-<img src="screenshots/register.PNG" width="500" alt="homepage picture" >
+<img src="screenshots/register.png" width="500" alt="Registration form" >
 
 * *Administrator dashboard*
-<img src="screenshots/dashboard.PNG" width="500" alt="homepage picture" >
+<img src="screenshots/dashboard.png" width="500" alt="Administrator dashboard" >
 
-* *Opening an advert as a buyer*
-<img src="screenshots/buyer.PNG" width="500" alt="homepage picture" >
+* *Opening an ad as a buyer*
+<img src="screenshots/buyer.png" width="500" alt="Opening an ad as a buyer" >
 
 * *Filtering the products on the home page*
-<img src="screenshots/filter.PNG" width="500" alt="homepage picture" >
+<img src="screenshots/filter.png" width="500" alt="Filtering the products on the home page" >
